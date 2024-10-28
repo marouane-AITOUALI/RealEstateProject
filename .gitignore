@@ -8,6 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+innovationProject.zip
+LancementApplication.pdf
+Projet de gestion immobilière.pdf
 dist
 dist-ssr
 *.local
